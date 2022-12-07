@@ -5,8 +5,6 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/DashingAdi/Kabab-Curry)
 ![GitHub stars](https://img.shields.io/github/stars/DashingAdi/Kabab-Curry)
 ![GitHub forks](https://img.shields.io/github/forks/DashingAdi/Kabab-Curry)
-[![Twitter Follow](https://img.shields.io/twitter/follow/DashingAdi2?style=social)](https://twitter.com/intent/follow?screen_name=DashingAdi2)
-[![Linked In](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-singh-9a4a69237//)
 
 <br>
 
